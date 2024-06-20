@@ -1,0 +1,14 @@
+E:\developpements\C#\Exo1Correction\Fonction\bin\Debug\net6.0\Fonction.exe
+E:\developpements\C#\Exo1Correction\Fonction\bin\Debug\net6.0\Fonction.deps.json
+E:\developpements\C#\Exo1Correction\Fonction\bin\Debug\net6.0\Fonction.runtimeconfig.json
+E:\developpements\C#\Exo1Correction\Fonction\bin\Debug\net6.0\Fonction.dll
+E:\developpements\C#\Exo1Correction\Fonction\bin\Debug\net6.0\Fonction.pdb
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.GeneratedMSBuildEditorConfig.editorconfig
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.AssemblyInfoInputs.cache
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.AssemblyInfo.cs
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.csproj.CoreCompileInputs.cache
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.dll
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\refint\Fonction.dll
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.pdb
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\Fonction.genruntimeconfig.cache
+E:\developpements\C#\Exo1Correction\Fonction\obj\Debug\net6.0\ref\Fonction.dll
